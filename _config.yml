@@ -3,7 +3,7 @@ name: Alex Chalk
 bio: Software Developer | Node/JS at Work | Haskell/TLA+ in Spare Time | Employed at Busbud
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A programming blog plus info on some of my projects. Hopefully it's an internet nerd haven. Enjoy!
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,7 +12,7 @@ picture: assets/images/ruby_carre.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -51,7 +51,7 @@ linkedin: alexanderchalk
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: adchalk93@gmail.com
+email: alex@alexchalk.net
 
 authors:
     alexchalk:

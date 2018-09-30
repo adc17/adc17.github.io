@@ -1,7 +1,7 @@
 ---
 title: "Non-Linear Recursion"
 layout: post
-date: 2016-09-30
+date: 2018-09-30
 headerImage: false
 tag:
 - recursion

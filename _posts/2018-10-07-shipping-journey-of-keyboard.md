@@ -11,6 +11,7 @@ author: alexchalk
 description: A roundabout trip to Montreal
 ---
 
+
 ![photo-of-keyboard][keyboard]
 
 This is a picture of my [new keyboard][uhk-link]. It is super-nerdy and a lot of fun.
@@ -32,6 +33,7 @@ Salluit is the second-northernmost settlement in all of Quebec. It has a populat
 Salluit:
 
 ![picture-of-salluit][salluit]
+<figcaption>Image is public domain, but credit to Nicolas Perrault III</figcaption>
 
 A friend thinks this was probably a bug in the courier's tracking software, but I really
 hope it wasn't. If you're going to have to wait a long time for a package, it's at least

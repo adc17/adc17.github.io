@@ -39,9 +39,9 @@ A friend thinks this was probably a bug in the courier's tracking software, but 
 hope it wasn't. If you're going to have to wait a long time for a package, it's at least
 nice to see as strange and unpredictable a shipment route as possible.
 
-[keyboard]: {{"/assets/images/uhk.jpg" | absolute_url}}
-[voyage]: {{"/assets/images/voyage-clavier.jpg" | absolute_url}}
-[salluit]: {{"/assets/images/salluit-2001.jpg" | absolute_url}}
+[keyboard]: {{"/assets/images/uhk/uhk.jpg" | absolute_url}}
+[voyage]: {{"/assets/images/uhk/voyage-clavier.jpg" | absolute_url}}
+[salluit]: {{"/assets/images/uhk/salluit-2001.jpg" | absolute_url}}
 [uhk-link]: https://ultimatehackingkeyboard.com/
 [crowdsupply-link]: https://www.crowdsupply.com/
 [salluit-wiki]: https://en.wikipedia.org/wiki/Salluit

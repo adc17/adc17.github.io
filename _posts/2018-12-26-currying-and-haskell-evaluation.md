@@ -1,7 +1,7 @@
 ---
 title: "Evaluation in Haskell"
 layout: post
-date: 2018-12-30
+date: 2018-12-26
 headerImage: false
 tag:
 - haskell

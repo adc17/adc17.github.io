@@ -99,7 +99,7 @@ application through building the following skills:
 - Treating all code in a project as if it is your code; debugging and submitting
   fixes or features for any open source projects when necessary.
 
-(Not using tutorials or big web framework to bootstrap your application.)
+(Basically, not using tutorials or big web frameworks to bootstrap your application.)
 
 A community already exists with these kinds of values (although I don't think they
 state them explicitly), and it is the clojure community.
@@ -182,9 +182,9 @@ tutorial that doesn't teach you how to pick out libraries by yourself.
 
 Given all this, my goal moving forwards is to build a small side-project in clojure,
 taking luminus as my base. I think it will help me build at least 2/3rds of the
-muscles that I've been neglecting up to this point, and with a bit luck it will give
-me some of the domain-specific knowledge I need to begin tackling the other 1/3 as
-well.
+muscles that I've been neglecting up to this point, and with a bit of luck it will
+give me some of the domain-specific knowledge I need to begin tackling the other 1/3
+as well.
 
 [1]: https://www.youtube.com/embed/FihU5JxmnBg
 [2]: https://clojure.org/community/books

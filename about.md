@@ -16,5 +16,3 @@ and the mathsy side of programming.
 My main interests are currently 
 Haskell and TLA+. If you haven't heard of TLA+, the intro to Leslie 
 Lamport's video course is a great place to [learn more](http://lamport.azurewebsites.net/video/videos.html).
-
-The photo is of me, my wife, and our dog, in Montréal, where we all live.

@@ -95,4 +95,4 @@ how to deal with that.
 [1]: https://docs.haskellstack.org/en/stable/README/
 [2]: https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
 [3]: https://www.schoolofhaskell.com/user/pbv/an-introduction-to-quickcheck-testing
-[4]: https://github.com/adc17/graham-scan/blob/master/src/Lib.hs
+[4]: https://github.com/AlexChalk/graham-scan/blob/master/src/Lib.hs
